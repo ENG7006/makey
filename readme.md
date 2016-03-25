@@ -48,7 +48,15 @@ The **Goals** section of the document should outline at least three and no more 
   * What do you want the user feel?
   * What do you want the user think?
 
-The **Specifications** section of the document should outline what, exactly, you should build, and how the parts are connected, e.g. "When the user touches the flower, the sound triggers."
+The **Specifications** section of the document should outline what, exactly, you should build, and how the parts are connected, e.g. "When the user touches the flower, the sound triggers." These should be detailed, if not exhaustive. The idea is that somebody else should be able to, from your specifications, construct your prototype from your specs and a Makey Makey.
+
+The **Rationale** section of the document should explain why you made the design choices that you made, in a schematic way. Here are the specs:
+
+* This portion of the document should be approximately 1,000 words (+/- 20%)
+* It should make reference to at least two authors we have read in class
+* It should cast your goals in terms of the larger themes of the course (materiality, neoliberalism, etc.). Put another way, it should articulate the humanistic and/or aesthetic problems towards which it is oriented.
+* It should motivate your choice of system, your goals, and your specific choices in terms of those larger themes. Why this specific system? Are you making something easier? Harder?  Why? To what end?
+* It should specify something of what you have learned in the process of making your project.
 
 #### Specs: Demo
 In the "lab" portion of the class on Thursday, April 7, each pair of students will present their Makey Makey project to the class. Each pair will setup, install, and demo their project in the lab portion of the class. The Demo should last approximately 10 minutes. Depending on student demand, the setup time will last somewhere between 15 and 30 minutes. After the demo, each group will receive, in good art school tradition, a "crit" (critique) of 5 to 10 minutes after the demo, including discussion of what worked, what didn't.
